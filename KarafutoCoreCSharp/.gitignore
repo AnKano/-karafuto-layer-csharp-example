@@ -1,0 +1,6 @@
+bin
+obj
+
+Assets/elevation/*
+!Assets/elevation/Place SRTM Files here
+libkcore.dll
