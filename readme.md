@@ -1,6 +1,6 @@
-﻿# Karafuto Layer C# Example
+# Karafuto Layer C# Example
 
-Dynamic linking example with the Raylib Framework (C#).
+Dynamic linking example with the Raylib Framework (C#). Based on [Karafuto Layer library](https://github.com/AnKano/karafuto-core).
 
 <img src="GithubAssets/screenshot-osm.png" height="400" />
 <img src="GithubAssets/screenshot-mapbox-satellite.png" height="400" />
